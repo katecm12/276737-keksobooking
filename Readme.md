@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Горяинова](https://up.htmlacademy.ru/javascript/9/user/276737).
-* Наставник: `Неизвестно`.
+* Наставник: [Ренат Туктаров](https://up.htmlacademy.ru/javascript/9/user/408799).
 
 ---
 
